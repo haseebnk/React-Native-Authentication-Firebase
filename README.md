@@ -15,7 +15,7 @@ $ npm install
 
 ## Run the project
 ```
-npx react-native run-android
+$npx react-native run-android
 ```
 
 ## Facing any problem? Contact with me
@@ -25,8 +25,9 @@ npx react-native run-android
 ## check demo video here 
 
 
-https://user-images.githubusercontent.com/42865210/164450032-1c4886b4-2795-4786-b95d-fdf40c8b706d.mp4
+ ##
 
+https://user-images.githubusercontent.com/42865210/164450462-f045edfe-cdfa-47cd-9194-ea78c1fbe6f6.mp4
 
 
 
@@ -34,3 +35,7 @@ https://user-images.githubusercontent.com/42865210/164450032-1c4886b4-2795-4786-
 
 Please visit my website.
 [haseeb.tech](https://haseeb.tech) 
+
+
+
+
