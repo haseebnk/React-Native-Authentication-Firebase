@@ -1,4 +1,4 @@
-## React native Authentication with REST API
+## React native Authentication with Firebase
 
 ## Clone this repo
 ```
